@@ -26,7 +26,7 @@ Authentication is handled securely with **Clerk**, while backend APIs manage tra
 - **Authentication**: [Clerk](https://clerk.com/)  
 - **API Integration**: Axios / Fetch (RESTful backend API)  
 - **State Management**: React hooks & Context API  
-- **Styling**: React Native StyleSheet / Tailwind (if used)  
+- **Styling**: React Native StyleSheet && Tailwind   
 
 ---
 
@@ -40,7 +40,7 @@ Authentication is handled securely with **Clerk**, while backend APIs manage tra
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Vinaykumarkajjapu2311/ExpenseTrackerFrontEndExpo.git
-cd 
+cd ExpenseTrackerFrontEndExpo
 
 
 
